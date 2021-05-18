@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Administrator-user
 - 👀 I’m interested in Python , Java , JavaScript and C++
-- 🌱 I’m currently learning Python , Java and JavaScript
+- 🌱 I’m currently learning Python , Java , JavaScript and C++
 - 📫 Email:xzx7131@outlook.com
 
 <!---

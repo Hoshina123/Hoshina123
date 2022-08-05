@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Administrator-user&theme=tokyonight&count_private=true&show_icons=true&custom_title=Github%20Status%20of%20%40Administrator-user">
+  <img src="https://github-readme-stats.vercel.app/api?username=xzx7131&theme=tokyonight&count_private=true&show_icons=true&custom_title=Github%20Status%20of%20%40xzx7131">
 </p>
 
 - 👋 Hi, I’m @xzx7131

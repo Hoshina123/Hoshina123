@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 猫月ホシヤ (Nekotsuki Hoshiya)
+- 👋 Hi, I’m 猫月ヒカリ (Nekotsuki Hikari)
 - 👀 I’m interested in Python, Java, JavaScript, C++ and C#
 - 🌱 I’m currently learning Python , C# , JavaScript and C++
 
